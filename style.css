@@ -1,0 +1,70 @@
+body{
+  background-color:  hsl(0, 0%, 8%);
+}
+p{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  width: 400px;
+  height: 570px;
+  background-color: hsl(0, 0%, 12%);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  border-radius: 12px;
+}
+.profile-pic{
+  width: 70px;
+  border-radius: 50%;
+}
+.container-2{
+  width: 70px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  
+}
+.p1{
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+}
+.p2{
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  color: hsl(75, 94%, 57%);
+  padding-top: 10px;
+}
+.p3{
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+}
+.github{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 30px;
+  background-color: #333333;
+  color: white;
+  font-family: "Inter";
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: 20px;
+  border-radius: 8px;
+  padding-top: 10px;
+
+}
